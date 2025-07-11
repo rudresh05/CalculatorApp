@@ -27,8 +27,8 @@ A basic calculator Android app built using Kotlin. It supports fundamental arith
 
 ## 📸 Screenshots
 
-https://github.com/rudresh05/CalculatorApp/blob/main/Screenshot_20250710_085554.jpg
-https://github.com/rudresh05/CalculatorApp/blob/main/Screenshot_20250710_085558.jpg
+Screenshot_20250710_085554.jpg
+Screenshot_20250710_085558.jpg
 
 ## 📂 File Structure
 
