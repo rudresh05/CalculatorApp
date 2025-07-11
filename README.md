@@ -27,9 +27,21 @@ A basic calculator Android app built using Kotlin. It supports fundamental arith
 
 ## 📸 Screenshots
 
-Screenshot_20250710_085554.jpg
-Screenshot_20250710_085558.jpg
+<img src="Screenshot_20250710_085554.jpg" alt="Calculator App" width="300"/>            <img src="Screenshot_20250710_085558.jpg" alt="Calculator App" width="300"/>    
 
-## 📂 File Structure
+
+## 📌 How to Run
+
+1. Clone or download this repo
+2. Open in Android Studio
+3. Run on emulator or physical Android device
+
+## ✍️ Author
+
+Rudresh Patel (rudreshpatel504@gmail.com)
+
+
+
+
 
 
